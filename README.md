@@ -20,3 +20,12 @@ Some Links for Video Tutorials:
 
 1. https://www.youtube.com/watch?v=xuB1Id2Wxak (What is Git | What is GitHub)
 2. https://www.youtube.com/watch?v=dSl_qnWO104 (Your First GitHub Pull Request (in 10 Mins))
+
+In shorts basic github workflow is as follows:-
+1.Fork the project
+2.Create a topic branch from master.
+3.Make some commits to improve the project.
+4.Push this branch to your GitHub project.
+5.Open a Pull Request on GitHub.
+6.Discuss, and optionally continue committing.
+7.The project owner merges or closes the Pull Request.
